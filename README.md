@@ -70,6 +70,10 @@ Understanding static variables and functions.
 ### 912str_method.ipynb
 Exploring the `__str__` method in Python.
 
+
+### Python and databases
+Managing different databases using Python
+
 ## Additional Resources
 
 ### README.md
