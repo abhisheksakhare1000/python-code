@@ -71,10 +71,10 @@ Understanding static variables and functions.
 Exploring the `__str__` method in Python.
 
 
-### Python and databases
+## Python and databases
 Managing different databases using Python
 
-### Python Library
+## Python Library
 Pandas
 
 ## Additional Resources
