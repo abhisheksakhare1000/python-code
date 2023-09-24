@@ -75,7 +75,7 @@ Exploring the `__str__` method in Python.
 Managing different databases using Python
 
 ## Python Library
-Pandas
+Pandas function and their operations
 
 ## Additional Resources
 
