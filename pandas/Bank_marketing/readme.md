@@ -1,4 +1,4 @@
-### List of Functions Used:
+### List of Functions Used in padas5 file:
 
 1. `pd.read_csv(url)`: Reads a CSV file from a specified URL.
 2. `df.isnull().sum()`: Checks for missing values in the DataFrame.
