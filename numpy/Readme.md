@@ -8,7 +8,7 @@ This repository contains Python code snippets demonstrating the usage of NumPy a
 - Basic operations: element-wise multiplication, matrix multiplication
 - Generating random numbers and arrays
 - Converting data to Pandas DataFrames
-
+- Zeros and ones function
 ## Usage
 
 Clone the repository and run the code in your preferred Python environment.
