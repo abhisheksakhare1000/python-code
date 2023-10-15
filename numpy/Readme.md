@@ -2,6 +2,8 @@
 
 This repository contains Python code snippets demonstrating the usage of NumPy and Pandas libraries.
 
+NumPy provides standard trigonometric functions, functions for arithmetic operations, handling complex numbers, etc
+
 ## Highlights
 
 - Creation and manipulation of NumPy arrays
