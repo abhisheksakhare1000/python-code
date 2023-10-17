@@ -10,7 +10,7 @@ NumPy provides standard trigonometric functions, functions for arithmetic operat
 - Basic operations: element-wise multiplication, matrix multiplication
 - Generating random numbers and arrays
 - Converting data to Pandas DataFrames
-- Zeros and ones functions of numpy
+- linespace, logspace, Zeros and ones functions of numpy
 ## Usage
 
 Clone the repository and run the code in your preferred Python environment.
